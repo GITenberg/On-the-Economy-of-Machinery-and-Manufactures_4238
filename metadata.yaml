@@ -1,0 +1,24 @@
+_repo: On-the-Economy-of-Machinery-and-Manufactures_4238
+creator:
+  author:
+    agent_name: Babbage, Charles
+    birthdate: 1791
+    deathdate: 1871
+    gutenberg_agent_id: '556'
+    url: http://www.gutenberg.org/2009/agents/556
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Babbage
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manufactures'
+- !lcc 'TJ'
+- !lcsh 'Machinery'
+title: On the Economy of Machinery and Manufactures
+url: http://www.gutenberg.org/ebooks/4238
